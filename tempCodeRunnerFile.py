@@ -1,0 +1,5 @@
+cv2.imshow("GrayImg",imgGray)
+    # cv2.imshow("BlurredImage",imgBlur)
+    # cv2.imshow("THRESHOLDImage",imgThreshold)
+    # cv2.imshow("MedianBlurredImage",imgMedianblur) 
+    # cv2.imshow("DilatedImage",imgDilate)
